@@ -6,7 +6,7 @@ var balloon, balloonImg
 function preload(){
 bgImg = loadImage("assets/bg.png")
 
-balloonImg = loadAnimation("assets/balloon1.png")
+balloonImg = loadAnimation("assets/balloon1.png","assets/balloon1.png","assets/balloon1.png")
 }
 
 function setup(){
